@@ -1,4 +1,4 @@
-public class Main {
+public class MainSemana02 {
     public static void main(String[] args) {
 
         // Prueba simple del objeto Producto
